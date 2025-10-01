@@ -2,16 +2,19 @@
   "https://sites.google.com/view/tagsystem/ChrisHORTON-1": {
     "owner": "Chris horton",
     "pet": "Milly",
-    "legacy": true
+    "legacy": true,
+    "url": "https://sites.google.com/view/tagsystem/ChrisHORTON-1"
   },
   "https://sites.google.com/view/tagsystem/222333-chop": {
     "owner": "Chris horton",
     "pet": "Chop",
-    "legacy": true
+    "legacy": true,
+    "url": "https://sites.google.com/view/tagsystem/222333-chop"
   },
   "https://snoutpet.co.uk/3": {
     "owner": "Richard Fry",
     "pet": "Nova",
-    "legacy": false
+    "legacy": false,
+    "url": "https://snoutpet.co.uk/3"
   }
 }
